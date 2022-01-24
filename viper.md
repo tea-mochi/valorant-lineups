@@ -2,8 +2,6 @@
 
 - [Breeze](#breeze)
 
-
-
 # Breeze
 
 
@@ -21,12 +19,10 @@ B Post Plant
 
 # Icebox
 
+jk they r not good
+
 A Post Plant
 
 
 
-B Post Plant - jump throw
-
-![Image](5.png)
-
-![Image](6.png)
+B Post Plant 
